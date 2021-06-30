@@ -1,4 +1,7 @@
 ### Hi there, I'm Kasun - aka [kasuncfdo] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=kasuncfdo.kasuncfdo)
+
+![I am GitHub Readme Generator's creator](https://media-exp3.licdn.com/dms/image/C4E16AQFro8XCxYhJJg/profile-displaybackgroundimage-shrink_200_800/0/1625088839389?e=1630540800&v=beta&t=r96Vo42fhci3L-jRQsgSjMBxFwkxFYzZ6iBR9WBOrrU)
+
 <a href="https://www.instagram.com/kasun_c_fdo__/">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -51,10 +54,20 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="GIF" src="https://github.com/kasuncfdo/kasuncfdo.github.io/blob/main/assests/images-logo.png?raw=true"/>
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasuncfdo&theme=radical)
+  <summary>:zap: GitHub Stats</summary>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasuncfdo)](https://github.com/anuraghazra/github-readme-stats)  
+  
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kasuncfdo)   
+  
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasuncfdo&theme=radical) 
+  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kasuncfdo)  
+  
+  <p> Grow in ❤ with Technology </p>
+  
+
 
 </details>
 
