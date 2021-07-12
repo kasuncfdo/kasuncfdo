@@ -1,6 +1,5 @@
 ### Hi there, I'm Kasun - aka [kasuncfdo] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=kasuncfdo.kasuncfdo)
 
-![I am GitHub Readme Generator's creator](https://media-exp3.licdn.com/dms/image/C4E16AQFro8XCxYhJJg/profile-displaybackgroundimage-shrink_200_800/0/1625088839389?e=1630540800&v=beta&t=r96Vo42fhci3L-jRQsgSjMBxFwkxFYzZ6iBR9WBOrrU)
 
 <a href="https://www.instagram.com/kasun_c_fdo__/">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
