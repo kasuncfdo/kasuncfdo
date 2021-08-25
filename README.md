@@ -31,13 +31,13 @@
 ### Connect with me:
 <p>I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
 <a href="https://www.instagram.com/kasun_c_fdo__/">
-   <img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/kasuncfdo/kasuncfdo.github.io/blob/main/assests/facebook.png" />
+   <img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" />
 </a>
 <a href="https://www.facebook.com/kasunchanukafernando">
-<img align="left" alt="codeSTACKr | Fb" width="22px" src="https://github.com/kasuncfdo/kasuncfdo.github.io/blob/main/assests/instagram.png" />
+<img align="left" alt="codeSTACKr | Fb" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" />
 </a>
 <a href="https://twitter.com/kasuncfdo">
-<img align="left" alt="kasuncfdo | Twitter" width="22px" src="https://github.com/kasuncfdo/kasuncfdo.github.io/blob/main/assests/twitter.png" />
+<img align="left" alt="kasuncfdo | Twitter" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" />
 </a>
 
 
