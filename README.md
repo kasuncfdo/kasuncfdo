@@ -16,10 +16,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kasuncfdo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkasuncfdo&screen_name=kasuncfdo)
 
-## I'm a Designer, Tech Enthusiast, Developer, and Content Creater!!
+## I'm a Designer, Tech Enthusiast, Developer, and Content Writer!!
 
-- 🔭 I'm Kasun
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I'm Kasun Chanuka
+- 🌱 I’m researching and writting science & Tech related Contents
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Think Different
