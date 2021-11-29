@@ -40,7 +40,8 @@
 <img align="left" alt="kasuncfdo | Twitter" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" />
 </a>
 
-<br/>
+
+
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=kasuncfdo&layout=wide)](https://github.com/gazf/github-readme-twitter)
 
 
