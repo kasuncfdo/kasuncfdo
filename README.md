@@ -50,6 +50,10 @@
 <br/>
 <br/>
 
+### Activities
+<a href="https://app.daily.dev/kasuncfdo"><img src="https://api.daily.dev/devcards/93a5425cf7ac43598f4efd2cb3a5b099.png?r=v8c" width="400" alt="Kasun's Dev Card"/></a>
+
+<br/>
 
 ### Recent tweets
 
