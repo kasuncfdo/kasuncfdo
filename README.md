@@ -36,7 +36,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/5c6aj47pk1n9c96yr85dyqkvz)
+[![Spotify](https://novatorem-kasuncfdo.vercel.app/api/spotify)](https://open.spotify.com/user/5c6aj47pk1n9c96yr85dyqkvz)
 
 ### Connect with me:
 <p>I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
