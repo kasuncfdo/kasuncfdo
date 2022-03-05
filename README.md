@@ -1,6 +1,6 @@
 ### Hi there, I'm Kasun - aka [kasuncfdo] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=kasuncfdo.kasuncfdo)
 
-
+<img src="https://github.com/itstommi/itstommi/blob/main/Rainbow.gif" width="40%">
    
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -14,6 +14,21 @@
 - 🥅 2022 Goals: Willing to learn more and Love Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Build things on web
 
+<h3>🌎 Bio</h3>
+
+```javascript
+class Kasun {
+  pronouns = "He" || "Him";
+  skills = ["Git", "Web Development", "HTML5", "React", "js", "CSS", "Designing", "Content writing"];
+  constructor(currentlyLearning) {
+    this.skills.push(currentlyLearning);
+  }
+  get education() {
+    return "Pursuing an Associate of Information Technology";
+  }
+}
+let me = new Kasun("AWS");
+```
 
 © 2021 GitHub, Inc.
 
@@ -50,7 +65,7 @@
   <img align="center" alt="kasuncfdo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 <a href="https://app.daily.dev/kasuncfdo">
-<img align="right" alt="Kasun's Dev Card" height="150" style="border-radius:50px;"src="https://api.daily.dev/devcards/93a5425cf7ac43598f4efd2cb3a5b099.png?r=v8c" />
+<img align="right" alt="Kasun's Dev Card" height="146" style="border-radius:50px;"src="https://api.daily.dev/devcards/93a5425cf7ac43598f4efd2cb3a5b099.png?r=v8c" />
 </a>
 </div>
   
@@ -79,15 +94,16 @@
 </div>
  
 <div align="center">
-  <a href="https://github.com/kasuncfdo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kasuncfdo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasuncfdo&layout=compact&langs_count=7&theme=gotham"/></a>
+<a href="https://github.com/kasuncfdo">
+<img height="120em" width="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasuncfdo&layout=compact&langs_count=7&theme=gotham"/>
+<img height="150em" width="auto" src="https://github-readme-stats.vercel.app/api?username=kasuncfdo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+<img height="120em" width="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasuncfdo&layout=compact&langs_count=7&theme=gotham"/>
+</a>
 </div>
    
 <br />
-<br />
 
----
+<img src="https://github.com/itstommi/itstommi/blob/main/Rainbow.gif" width="100%">
 
 <details>
   
