@@ -95,9 +95,9 @@ let me = new Kasun("AWS");
  
 <div align="center">
 <a href="https://github.com/kasuncfdo">
-<img height="120em" width="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasuncfdo&layout=compact&langs_count=7&theme=gotham"/>
-<img height="150em" width="auto" src="https://github-readme-stats.vercel.app/api?username=kasuncfdo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-<img height="120em" width="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasuncfdo&layout=compact&langs_count=7&theme=gotham"/>
+<img height="120" width="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasuncfdo&layout=compact&langs_count=7&theme=gotham"/>
+<img height="150" width="350" src="https://github-readme-stats.vercel.app/api?username=kasuncfdo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+<img height="120" width="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasuncfdo&layout=compact&langs_count=7&theme=gotham"/>
 </a>
 </div>
    
