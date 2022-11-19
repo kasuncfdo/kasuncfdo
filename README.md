@@ -7,7 +7,7 @@
 ## I'm a Designer, Tech Enthusiast, Developer, and Content Writer!!
 
 - 🔭 I'm Kasun Chanuka
-- 🧿 17 years old Passionate self-taught student
+- 🧿 18 years old Passionate self-taught student
 - 🌱 I’m researching and writting science & Tech related Contents
 - 👯 I write code, build web apps, share toughts
 - 🤝 Helping people with creating contents on web development, frontend tips, and interesting resources
@@ -30,7 +30,7 @@ class Kasun {
 let me = new Kasun("AWS");
 ```
 
-© 2021 GitHub, Inc.
+© 2022 GitHub, Inc.
 
 
 <a href="https://www.instagram.com/kasun_c_fdo__/">
