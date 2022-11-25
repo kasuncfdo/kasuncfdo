@@ -1,18 +1,26 @@
-### Hi there, I'm Kasun - aka [kasuncfdo] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=kasuncfdo.kasuncfdo)
+<!-- ### Hi 👋, I'm Kasun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+![](https://visitor-badge.glitch.me/badge?page_id=kasuncfdo.kasuncfdo) -->
 
-<img src="https://github.com/itstommi/itstommi/blob/main/Rainbow.gif" width="40%">
-   
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<div> 
+<a href="https://app.daily.dev/kasuncfdo">
+<img 
+     align="right" alt="Kasun's Dev Card" height="300"
+     style="border-radius:50px;"src="https://api.daily.dev/devcards/93a5425cf7ac43598f4efd2cb3a5b099.png?r=v8c" />
+</a>
+</div>
 
-## I'm a Designer, Tech Enthusiast, Developer, and Content Writer!!
+# Hi , I'm Kasun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+<img src="https://github.com/itstommi/itstommi/blob/main/Rainbow.gif" height="1%" width="70%">
+<p> I'm Kasun Chanuka Fernando (Also known as Kasuncfdo). A Tech Enthusiast, front-end Developer, An Journalist!
+</p>
+<p><img src="https://visitcount.itsvg.in/api?id=kasuncfdo&label=Profile%20Views&color=12&icon=5&pretty=true"></p>
+<br>
 
-- 🔭 I'm Kasun Chanuka
-- 🧿 18 years old Passionate self-taught student
-- 🌱 I’m researching and writting science & Tech related Contents
+- 🌱 A Researcher who love to writting science & Tech related Contents
 - 👯 I write code, build web apps, share toughts
 - 🤝 Helping people with creating contents on web development, frontend tips, and interesting resources
-- 🥅 2022 Goals: Willing to learn more and Love Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Build things on web
+- ☕ Coffee Lover
 
 <h3>🌎 Bio</h3>
 
@@ -30,46 +38,40 @@ class Kasun {
 let me = new Kasun("AWS");
 ```
 
-© 2022 GitHub, Inc.
 
+<!-- <details>
+  
+  <summary> 🏆 GitHub Trophies</summary>
+   <br/>
+   
+   <div align="center">
 
-<a href="https://www.instagram.com/kasun_c_fdo__/">
-  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/kasuncfdo">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://lk.linkedin.com/in/kcfernando">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/kasuncfdo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkasuncfdo&screen_name=kasuncfdo)
-
+<p><img src="https://github-profile-trophy.vercel.app/?username=kasuncfdo">
+      </p> </div>
+   
+</details>
+ -->
+ 
+### ⚡Tech Stack
+<div><br>
+  <img align="center" alt="kasuncfdo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<!--   <img align="center" alt="kasuncfdo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+  <img align="center" alt="kasuncfdo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="kasuncfdo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="kasuncfdo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="kasuncfdo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   
+<!--   <img align="center" alt="kasuncfdo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
+   <br>
 
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem-kasuncfdo.vercel.app/api/spotify)](https://open.spotify.com/user/5c6aj47pk1n9c96yr85dyqkvz)
 
-### Connect with me:
-<p>I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
-<div style="display: inline_block"><br>
-  <img align="center" alt="kasuncfdo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="kasuncfdo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="kasuncfdo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="kasuncfdo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="kasuncfdo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="kasuncfdo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="kasuncfdo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
-<a href="https://app.daily.dev/kasuncfdo">
-<img align="right" alt="Kasun's Dev Card" height="146" style="border-radius:50px;"src="https://api.daily.dev/devcards/93a5425cf7ac43598f4efd2cb3a5b099.png?r=v8c" />
-</a>
-</div>
-  
-  ##
+### Contribution Graph  
  <div>
-<a href="https://www.instagram.com/kasun_c_fdo__/">
+<!-- <a href="https://www.instagram.com/kasun_c_fdo__/">
    <img align="left" alt="kasuncfdo | web" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" />
 </a>
 <a href="https://twitter.com/kasuncfdo">
@@ -86,8 +88,8 @@ let me = new Kasun("AWS");
 </a>
 <a href="https://twitter.com/kasuncfdo">
 <img align="left" alt="kasuncfdo | Web" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WWW.svg" />
-</a>
-   
+</a> -->
+    
 ![snake gif](https://github.com/kasuncfdo/kasuncfdo/blob/output/github-contribution-grid-snake.svg)
 </div>
  
@@ -102,6 +104,22 @@ let me = new Kasun("AWS");
 <br />
 
 <img src="https://github.com/itstommi/itstommi/blob/main/Rainbow.gif" width="100%">
+
+### Connect with me:
+<p>I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
+
+<a href="https://www.instagram.com/kasun_c_fdo__/">
+  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/kasuncfdo">
+  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://lk.linkedin.com/in/kcfernando">
+  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/kasuncfdo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkasuncfdo&screen_name=kasuncfdo)
 
 <details>
   
@@ -124,3 +142,4 @@ let me = new Kasun("AWS");
 
 </details>
 
+© 2022 GitHub, Inc.
