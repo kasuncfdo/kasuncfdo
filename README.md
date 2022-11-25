@@ -16,13 +16,17 @@
 <p><img src="https://visitcount.itsvg.in/api?id=kasuncfdo&label=Profile%20Views&color=12&icon=5&pretty=true"></p>
 <br>
 
-- 🌱 A Researcher who love to writting science & Tech related Contents
-- 👯 I write code, build web apps, share toughts
-- 🤝 Helping people with creating contents on web development, frontend tips, and interesting resources
-- ⚡ Fun fact: I love to Build things on web
-- ☕ Coffee Lover
+```js
 
-<h3>🌎 Bio</h3>
+• 🌱 A Researcher who love to writting science & Tech related Contents
+• 👯 I write code, build web apps, share toughts
+• 🤝 Helping people with creating contents on web development, 
+      frontend tips, and interesting resources
+• ⚡ Fun fact: I love to Build things on web
+• ☕ Coffee Lover
+```
+
+<!-- <h3>🌎 Bio</h3>
 
 ```javascript
 class Kasun {
@@ -37,7 +41,7 @@ class Kasun {
 }
 let me = new Kasun("AWS");
 ```
-
+ -->
 
 <!-- <details>
   
