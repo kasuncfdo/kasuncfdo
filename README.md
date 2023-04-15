@@ -1,21 +1,14 @@
 <!-- ### Hi 👋, I'm Kasun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 ![](https://visitor-badge.glitch.me/badge?page_id=kasuncfdo.kasuncfdo) -->
-
-<div> 
-<a href="https://app.daily.dev/kasuncfdo">
-<img 
-     align="right" alt="Kasun's Dev Card" height="300"
-     style="border-radius:50px;"src="https://api.daily.dev/devcards/93a5425cf7ac43598f4efd2cb3a5b099.png?r=v8c" />
-</a>
-</div>
-
 # Hi , I'm Kasun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-<img src="https://github.com/itstommi/itstommi/blob/main/Rainbow.gif" height="1%" width="70%">
 <p> I'm Kasun Chanuka Fernando (Also known as Kasuncfdo). A Tech Enthusiast, front-end Developer, An Journalist!
 </p>
 <p><img src="https://visitcount.itsvg.in/api?id=kasuncfdo&label=Profile%20Views&color=12&icon=5&pretty=true"></p>
 <br>
-
+<img 
+      alt="Kasun's Dev Card" height="300"
+     style="border-radius:50px;"src="https://api.daily.dev/devcards/93a5425cf7ac43598f4efd2cb3a5b099.png?r=v8c" />
+     
 ```js
 
 • 🌱 A Researcher who love to writting science & Tech related Contents
@@ -107,7 +100,7 @@ let me = new Kasun("AWS");
    
 <br />
 
-<img src="https://github.com/itstommi/itstommi/blob/main/Rainbow.gif" width="100%">
+
 
 ### Connect with me:
 <p>I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
@@ -146,4 +139,4 @@ let me = new Kasun("AWS");
 
 </details>
 
-© 2022 GitHub, Inc.
+© 2023 GitHub, Inc.
