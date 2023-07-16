@@ -105,7 +105,7 @@ let me = new Kasun("AWS");
 ### Connect with me:
 <p>I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
 
-<a href="https://www.instagram.com/kasun_c_fdo__/">
+<!--a href="https://www.instagram.com/kasun_c_fdo__/">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/kasuncfdo">
@@ -113,7 +113,7 @@ let me = new Kasun("AWS");
 </a>
 <a href="https://lk.linkedin.com/in/kcfernando">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a-->
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kasuncfdo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkasuncfdo&screen_name=kasuncfdo)
